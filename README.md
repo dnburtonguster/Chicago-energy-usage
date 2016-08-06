@@ -2,7 +2,7 @@
 
 ###Data
 The data for this exploratory prediction of the variability of energy consumption by
-residential building in Chicago comes from the [energy usage 2010 dataset](https://data.cityofchicago.org/browse?limitTo=datasets).
+residential buildings in Chicago comes from the [energy usage 2010 dataset](https://data.cityofchicago.org/browse?limitTo=datasets).
 The exercise was a self-directed task used to come up with a hypothesis based on some readily-available factors
 (ie. block population, occupancy, physical houseing, gas/electricity usage, etc.). 
 
